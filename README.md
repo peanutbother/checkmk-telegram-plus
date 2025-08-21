@@ -172,4 +172,4 @@ The bot also has the default AI functions you may know from ChatGPT. You can ask
 # Personalized AI Chatbots
 
 In addition to the features described here, we now also develop personalized AI chatbots tailored to your specific needs. These custom solutions enable more precise and context-aware assistance—perfect for support, monitoring, or other specialized use cases.
-Learn more and explore example projects on our website: [https://yourwebsite.com](https://www.dexdot.it/chatbots-kundenservice-automatisieren-suedtirol/)
+Learn more and explore example projects on our website: [https://www.dexdot.it/](https://www.dexdot.it/chatbots-kundenservice-automatisieren-suedtirol/)
